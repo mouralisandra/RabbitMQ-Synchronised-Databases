@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CData JDBC Driver for SQL Server 2022">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/CData/CData JDBC Driver for SQL Server 2022" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/CData/CData JDBC Driver for SQL Server 2022" recursive="false" />
+  </library>
+</component>
